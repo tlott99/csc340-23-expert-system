@@ -1,0 +1,10 @@
+{
+    "intro" : "I am the shape ID system.",
+    "q1" : "Are you 2d or 3d?",
+    "q2" : "How many edges/sides do you have?",
+    "conclusion" : "It looks like you are a",
+    "not_found" : "I do not recognize that shape. Please tell me what it is.",
+    "repeat" : "Do you want to go again?",
+    "farewell" : "Goodbye.",
+    "contribution" : "Thank you for the contribution."
+}
